@@ -1,0 +1,31 @@
+.container {
+  padding-top: 80px;
+  min-height: 640px;
+  background-image: url(public/images/background.jpg);
+  font-size: 24pt;
+}
+
+.row {
+  background-color: rgba(255,255,255,0.7);
+  margin: 20px;
+  padding: 3px;
+}
+
+.col {
+  text-align: center;
+}
+
+img {
+  width: 60px;
+  height: 60px;
+}
+
+.row-4 {
+  font-size: 30pt;
+  font-weight: bold;
+}
+
+.row-4 img {
+  width: 100px;
+  height: 100px;
+}
